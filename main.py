@@ -13,7 +13,7 @@ from time import sleep
 app = FastAPI(
     title="API de Produtos - Simulação",
     version="0.0.1",
-    description="API de produtos para simular um CRUD voltada para estudos",) 
+    description="API de produtos para simular um CRUD voltada para estudos",)
 
 
 def falso_db():
